@@ -21,7 +21,7 @@ The Snake Game is a simple web-based game where the player controls a snake to e
 - Try to achieve the highest score possible!
 
 ## Demo
-(Click)[https://ganeshnaidu09.github.io/Snake-Game/]
+[Click](https://ganeshnaidu09.github.io/Snake-Game/)
 
 
 
