@@ -13,7 +13,7 @@ The Snake Game is a simple web-based game where the player controls a snake to e
 - Real-time score tracking
 - Responsive design for different screen sizes
 - Easy to play and understand
-- It working On laptops only
+- It works On laptops only
 
 ## Usage
 - Use the arrow keys to control the snake's direction.
