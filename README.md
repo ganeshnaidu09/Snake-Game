@@ -13,12 +13,14 @@ The Snake Game is a simple web-based game where the player controls a snake to e
 - Real-time score tracking
 - Responsive design for different screen sizes
 - Easy to play and understand
+- It working On laptops only
 
 ## Usage
 - Use the arrow keys to control the snake's direction.
 - Eat the food to grow longer and increase your score.
 - Avoid running into the walls or the snake's own body.
 - Try to achieve the highest score possible!
+
 
 ## Demo
 [Click](https://ganeshnaidu09.github.io/Snake-Game/)
