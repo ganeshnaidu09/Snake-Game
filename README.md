@@ -19,7 +19,9 @@ The Snake Game is a simple web-based game where the player controls a snake to e
 - Eat the food to grow longer and increase your score.
 - Avoid running into the walls or the snake's own body.
 - Try to achieve the highest score possible!
-  
+
+## Demo
+(Click)[https://ganeshnaidu09.github.io/Snake-Game/]
 
 
 
